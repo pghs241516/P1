@@ -1,0 +1,4 @@
+{
+  "name": "Vegetable Seed Recommender",
+  "description": "A smart vegetable seed recommendation system using cosine similarity and Gemini AI for detailed growing guides."
+}
